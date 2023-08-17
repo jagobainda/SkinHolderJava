@@ -10,7 +10,15 @@
     <li>Ejecutar el archivo "Requerimientos.ps1". Este ejecutable te ayudará a intalar Java 17 para poder ejecutar el programa.</li>
     <li>Recomiendo hacer un acceso directo en el escritorio del archivo "Ejecutable.ps1" para acceder al programa más fácilmente.</li>
     <li>Click derecho - Enviar a - Escritorio (crear acceso directo)</li>
-    <li>Doble click en "Ejecutable.ps1" para abrir el programa.</li>
+    <li>Doble click en el acceso directo para abrir el programa.</li>
+    <li>Nota: en algunas versiones de Windows 10 no se ejecuta si haces doble click. Deberás hacer click derecho y ejecutar con PowerShell.</li>
+</ul>
+<h2 align="center">Changelog - 1.0</h2>
+<ul>
+    <li>Actualizado el registro de log para crear logs de mejor calidad.</li>
+    <li>Actualiazdo el porcentaje de comisión de Steam.</li>
+    <li>Añadidos verificadores de input para hacer el programa más robusto.</li>
+    <li>Corregidos pequeños errores encontrados en el testeo de la fase Beta.</li>
 </ul>
 <h2 align="center">Información de contacto</h2>
 <p><img alt="discord" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="15px"> jagobainda#5551</p>
