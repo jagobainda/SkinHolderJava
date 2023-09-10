@@ -16,7 +16,7 @@
 <h2 align="center">Changelog - 1.0</h2>
 <ul>
     <li>Actualizado el registro de log para crear logs de mejor calidad.</li>
-    <li>Actualiazdo el porcentaje de comisión de Steam.</li>
+    <li>Actualizado el porcentaje de comisión de Steam.</li>
     <li>Añadidos verificadores de input para hacer el programa más robusto.</li>
     <li>Corregidos pequeños errores encontrados en el testeo de la fase Beta.</li>
 </ul>
