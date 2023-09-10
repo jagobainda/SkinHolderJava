@@ -1,7 +1,10 @@
+# Establecer las dimensiones de la consola
+[console]::SetWindowSize(90, 63)
+
 # Poner la consola en UTF-8
 chcp 65001 | Out-Null
 
 # Ejecutar el JAR
-java -jar skinholder.jar
+java -jar ProyectoSteamAPI.jar
 
 Pause | Out-Null
