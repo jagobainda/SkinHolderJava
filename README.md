@@ -2,7 +2,7 @@
 <h2 align="center">Información del programa</h2>
 <p>Aplicación de consola destinada a calcular el precio de las inversiones en skins de Counter Strike (seguirá funcionando en Source 2).</p>
 <h2 align="center">Datos de interés para el usuario</h2>
-<a href="https://www.virustotal.com/gui/file/1b490311c52a97a8d399426f6b609494e87d7a0a23695e50a05b66e3e23ce6cd/detection">Análisis de VirusTotal</a>
+<a href="https://www.virustotal.com/gui/file/a034f13fb39f78fcce9137f070ca54571e3fe96fceb2e5787bad95b12061b45a/detection">Análisis de VirusTotal</a>
 <br>
 <a href="https://github.com/jindaardam1/SkinHolderSourceCode">Código fuente del programa</a>
 <h2 align="center">Pasos para usar el programa</h2>
