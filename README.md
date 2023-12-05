@@ -26,6 +26,12 @@
     <li>Añadido un comprobante de conexión en el menú principal.</li>
     <li>Añadido un comando que redimensiona la consola automáticamente.</li>
 </ul>
+<h2 align="center">Changelog - 1.2</h2>
+<ul>
+    <li>Arreglada la etiqueta de scraping de divisas.</li>
+    <li>Añadido JavaDoc en las clases nuevas.</li>
+    <li>La siguiente versión traerá la opción de elegir el idioma (Español, Inglés y Ruso).</li>
+</ul>
 <h2 align="center">Información de contacto</h2>
 <p><img alt="discord" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="15px"> jagobainda#5551</p>
 <p><img alt="discord" src="https://www.svgrepo.com/show/331550/protonmail.svg" height="15px"> jagobainda@protonmail.com</p>

@@ -1,5 +1,5 @@
 # Establecer las dimensiones de la consola
-[console]::SetWindowSize(90, 63)
+[console]::SetWindowSize(91, 63)
 
 # Poner la consola en UTF-8
 chcp 65001 | Out-Null
