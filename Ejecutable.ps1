@@ -5,6 +5,6 @@
 chcp 65001 | Out-Null
 
 # Ejecutar el JAR
-java -jar ProyectoSteamAPI.jar
+java -jar skinholder.jar
 
 Pause | Out-Null
